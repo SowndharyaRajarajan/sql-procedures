@@ -1,4 +1,4 @@
--- Task -13
+
 -- variables and in parameter task
 -- 1. calculate total salary based on job role while using procedure(with different input values)
 use import;
@@ -69,7 +69,7 @@ call report_deptno (20);
 
 
 
--- Task-14:
+
 -- variables task
 -- calculate emp_count
 -- calculate unique job count
